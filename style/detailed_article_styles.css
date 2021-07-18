@@ -1,0 +1,11 @@
+img {
+    max-height: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.carousel-inner {
+    height: 500px;
+    background: #f6fafa;
+    border: 1px solid rgba(0, 0, 0, .125);;
+}
